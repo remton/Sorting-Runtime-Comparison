@@ -2,6 +2,7 @@
 
 #include <iostream>
 #include <cstdlib>
+#include <math.h>
 #include <fstream>
 #include <string>
 #include "number_data.h"
